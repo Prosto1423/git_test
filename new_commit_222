@@ -1,0 +1,38 @@
+[33mcommit d95d909e7494bafc5c7d4bd4f10e375bb7334256[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-branch[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: f58a4e3 9d89927
+Author: Prosto1423 <162024580+Prosto1423@users.noreply.github.com>
+Date:   Wed Feb 4 21:11:37 2026 +0100
+
+    Merge pull request #1 from Prosto1423/new-branch
+    
+    New branch
+
+[33mcommit 9d89927d8fef94b5d8aba52b5a9f812a09866085[m
+Author: Prosto1423 <162024580+Prosto1423@users.noreply.github.com>
+Date:   Wed Feb 4 21:07:51 2026 +0100
+
+    Add content to a_file
+
+[33mcommit e1bb94d0394a055150c97144ca93c47054536c63[m[33m ([m[1;31morigin/new-branch[m[33m)[m
+Author: nbooloq1313 <kvakusha3000@gmail.com>
+Date:   Tue Feb 3 22:39:09 2026 +0100
+
+    New branch file
+
+[33mcommit f58a4e334baa0a23cc6e0e09c3fcd6cb460e1be8[m[33m ([m[1;32mmain[m[33m)[m
+Author: nbooloq1313 <kvakusha3000@gmail.com>
+Date:   Tue Feb 3 21:53:20 2026 +0100
+
+    Second commit was not as bad
+
+[33mcommit 04a055f570aa65cc1945ad134b128fcf5004d981[m
+Author: nbooloq1313 <kvakusha3000@gmail.com>
+Date:   Mon Feb 2 23:01:35 2026 +0100
+
+    This is the first official push
+
+[33mcommit 4d35d1f70f649140423f76dc212f8909bfa97d50[m
+Author: nbooloq1313 <kvakusha3000@gmail.com>
+Date:   Mon Feb 2 22:17:18 2026 +0100
+
+    First commit
